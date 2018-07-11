@@ -1,18 +1,18 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: mancio5/perma-notes
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Permaculture Wiki
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Permaculture Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: Storti Urbani
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: mancio5/perma-notes/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -35,9 +35,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Permaculture Wiki
 
-feedback_email: tomjoht@gmail.com
+feedback_email: matte.mancio@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
