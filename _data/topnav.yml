@@ -5,10 +5,8 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: Galline
-      url: /galline
-    - title: Soil
-      url: /soil
+    - title: News
+      url: /news
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -26,8 +24,8 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:
-        - title: Galline
-          url: /gal_introduction.html
+        - title: Jekyll Documentation Theme
+          url: /mydoc_introduction.html
         - title: Product 1
           url: /p1_landing_page.html
         - title: Product 2
