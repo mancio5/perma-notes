@@ -1,22 +1,31 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Sidebar
-  levels: one
+- title: sidebar
+  product: Main Wiki
+  version: 6.0
   folders:
 
-  - title: Products
+  - title: Main topics
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: Chicken
+      url: /galline.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Market Gardening
+      url: /galline.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Jadam
+      url: /jadam.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+
+  - title: Tag archives
+    output: web
+    folderitems:
+
+    - title: Chicken
+      url: /tag_chicken.html
+      output: web
+    - title: Market gardening
+      url: /tag_market_gardening.html
       output: web

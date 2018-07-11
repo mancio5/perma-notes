@@ -12,7 +12,7 @@ entries:
     - title: Overview
       url: /galline.html
       output: web
-     - title: Costs
+    - title: Costs
       url: /gal_costs.html
       output: web
     - title: Type of chicken
