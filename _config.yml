@@ -12,7 +12,7 @@ site_title: Permaculture Wiki
 company_name: Storti Urbani
 # this appears in the footer
 
-github_editme_path: mancio5/perma-notes/
+github_editme_path: mancio5/perma-notes/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -102,7 +102,8 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
+- todo_sidebar
+- mg_sidebar
 - galline_sidebar
 - other
 

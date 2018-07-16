@@ -1,6 +1,6 @@
 ---
 title: Chores
-tags: [chicken, galline, management, chores]
+tags: [chicken, galline, management, chores, chicken_chores]
 keywords: chicken, galline, management, chores
 last_updated: July 10, 2018
 summary: ""

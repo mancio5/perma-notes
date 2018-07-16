@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Market Gardening
+  version:
   folders:
 
   - title: Main topics
@@ -17,6 +17,13 @@ entries:
       output: web
     - title: Jadam
       url: /jadam.html
+      output: web
+
+  - title: FaQ
+    output: web
+    folderitems:
+    - title: Soil Preparation
+      url: /tag_chicken.html
       output: web
 
   - title: Tag archives

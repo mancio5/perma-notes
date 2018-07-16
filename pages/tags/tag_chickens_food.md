@@ -1,9 +1,9 @@
 ---
 title: "Food"
-tagName: food 
+tagName: chicken_food 
 search: exclude
-permalink: tag_food.html
-sidebar: mydoc_sidebar
+permalink: tag_chickens_food.html
+sidebar: galline_sidebar
 folder: tags
 ---
 

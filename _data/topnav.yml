@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+    - title: ToDo for the site
+      url: /todo
     - title: Galline
       url: /galline
     - title: Soil

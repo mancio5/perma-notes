@@ -1,6 +1,6 @@
 ---
 title: Selection
-tags: [chicken, galline, selection]
+tags: [chicken, galline, chicken_selection]
 keywords: chicken, galline, selection, breeding
 last_updated: July 10, 2018
 summary: "For the best genes get the best male and females together."

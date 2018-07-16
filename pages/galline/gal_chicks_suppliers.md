@@ -1,6 +1,6 @@
 ---
 title: Supplies
-tags: [chicken, galline, chicks, supplies]
+tags: [chicken, galline, chicks, supplies, list, chick_supplies]
 keywords: chicken, galline, chicks, supplies
 last_updated: July 10, 2018
 summary: ""

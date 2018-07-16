@@ -1,6 +1,6 @@
 ---
 title: Alternative Feeds
-tags: [chicken, galline, food]
+tags: [chicken, galline, food, chicken_food]
 keywords: chicken, galline, food, saving, sustainable
 last_updated: July 10, 2018
 summary: "It's possible to save money on feed and use less and less of commercial grains"

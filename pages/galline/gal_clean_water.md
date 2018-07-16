@@ -1,6 +1,6 @@
 ---
 title: Clean Water
-tags: [chicken, galline, water, needs]
+tags: [chicken, galline, water, needs, chicken_needs]
 keywords: chicken, galline, water, acqua
 last_updated: July 10, 2018
 summary: "When chickens don’t have enough water they become stressed and egg production decline for same time."

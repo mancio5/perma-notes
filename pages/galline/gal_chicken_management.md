@@ -1,6 +1,6 @@
 ---
 title: Chicken Management
-tags: [chicken, galline, management ]
+tags: [chicken, galline, management, chicken_management ]
 keywords: chicken, galline, management
 last_updated: July 10, 2018
 summary: ""

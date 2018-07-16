@@ -1,6 +1,6 @@
 ---
 title: Butchering
-tags: [chicken, galline, meat, butcher]
+tags: [chicken, galline, meat, chicken_butcher, butcher]
 keywords: chicken, galline, meat, butcher
 last_updated: July 10, 2018
 summary: ""

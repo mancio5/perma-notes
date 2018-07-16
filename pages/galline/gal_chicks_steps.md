@@ -1,6 +1,6 @@
 ---
 title: Steps
-tags: [chicken, galline, chicks, breeding]
+tags: [chicken, galline, chicks, breeding, steps, chicks_steps]
 keywords: chicken, galline, chicks, breeding
 last_updated: July 10, 2018
 summary: ""

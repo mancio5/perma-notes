@@ -1,6 +1,6 @@
 ---
 title: Costs
-tags: [chicken, galline, costs]
+tags: [chicken, galline, costs, chicken_costs]
 keywords: chicken, galline, costs
 last_updated: July 10, 2018
 summary: ""

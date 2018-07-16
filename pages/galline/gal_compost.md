@@ -1,6 +1,6 @@
 ---
 title: Composting with chickens
-tags: [chicken, galline, compost]
+tags: [chicken, galline, compost, chicken_compost]
 keywords: chicken, galline, compost
 last_updated: July 10, 2018
 summary: "Couple of months before I want to plant, cage chickens with electric fence and feed them 100% on compost."

@@ -1,6 +1,6 @@
 ---
 title: Where to get the chicks
-tags: [chicken, galline, chicks, start]
+tags: [chicken, galline, chicks, start, chicken_start]
 keywords: chicken, galline, chicks, start
 last_updated: July 10, 2018
 summary: ""

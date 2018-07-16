@@ -1,6 +1,6 @@
 ---
 title: Adequate food
-tags: [chicken, galline, food]
+tags: [chicken, galline, food, chicken_food]
 keywords: chicken, galline, food
 last_updated: July 10, 2018
 summary: ""
