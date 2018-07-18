@@ -1,0 +1,62 @@
+---
+layout: page
+---
+{% assign p = page %}
+<div id="{{p['nome_principale'] | downcase}}" class="plant-text pt-4">
+      <div class="row">
+        <div class="col-sm-4">
+          <img class=" text-center" src="{{baseurl}}/images/plants/{{p['nome_principale'] | downcase}}.jpg" onerror="this.style.display='none'"/>
+        </div>
+        <div class="col-sm-4">
+          <img class="img-fluid img-responsive text-center" src="{{baseurl}}/images/plants/{{p['nome_principale'] | downcase}}-1.jpg" onerror="this.style.display='none'"/>
+        </div>
+        <div class="col-sm-4">
+         <img class="img-fluid img-responsive text-center" src="{{baseurl}}/images/plants/{{p['nome_principale'] | downcase}}-2.jpg" onerror="this.style.display='none'"/>
+        </div>
+      </div>
+      <div class="plant-text-body">
+        <h1 class="name section-title text-center m-3">{{p["nome_principale"] | downcase | capitalize}}</h1>
+        <h3 class="name-lat text-center p-4"><i>{{p["nome_latino"] | downcase | capitalize}}</i></h3>
+        <h3 class="name-eng text-center p-4"><i>{{p["nome_inglese"] | downcase | capitalize}}</i></h3>
+        <p><b>Tipologia pianta:</b> {{p["tipo"]}}</p>
+        <p><b>Habitat:</b> {{p["habitat"]}}</p>
+        <p><b>Dove si trova:</b> {{p["luogo"]}}</p>
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2">
+            <table class="table text-center">
+              <thead>
+                <th>Crescita</th>
+                <th>Fioritura</th>
+                <th>Maturazione frutti</th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td> {{p["periodo fioritura"]}}</td>
+                  <td> {{p["periodo frutti"]}}</td>
+                  <td> {{p["periodo crescita"]}}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="descrizione">
+          {% assign list = p["descrizione"] | split: "/n " %}
+          {% assign list = p["descrizione"] | split: ". " %}
+          <ul>
+          {% for l in list %}
+            <li>{{l}}</li>
+          {% endfor %}
+        </div>
+        <div class="usi" class="mt-4">
+            <h2 class="text-center">Usi</h2>
+            {% assign attr = "erboristeria cucina orto terreno curiosita" | split: " " %}
+            {% for att in attr %}
+                {% assign full = att | append: "_full" %}
+                {% if p[full].size > 0 %}
+                    <h3>{{ att | downcase | capitalize }}</h3>
+                    <p>{{p[full] | capitalize }}</p>
+                {% endif %}
+            {% endfor %}
+        </div>
+      </div>
+</div>

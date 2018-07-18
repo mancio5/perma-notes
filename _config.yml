@@ -1,3 +1,13 @@
+# Build settings
+page_gen-dirs: false # uncomment, if you prefer to generate named folders
+
+page_gen:
+    
+  - data: 'plants'
+    template: 'plant'
+    name: 'nome_principale'
+    dir: 'plants'
+
 repository: mancio5/perma-notes
 
 output: web
@@ -62,7 +72,7 @@ kramdown:
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
 collections:
-  tooltips:
+  pages:
     output: false
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
@@ -113,3 +123,6 @@ description: "All my permaculture resources in one place."
 # needed for sitemap.xml file only
 url: http://permanotes.stortiurbani.it
 baseurl: 
+
+
+

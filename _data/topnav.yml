@@ -3,24 +3,26 @@
 topnav:
 - title: Topnav
   items:
-    - title: ToDo for the site
-      url: /todo
+    - title: ToDo
+      url: todo
     - title: Galline
-      url: /galline
+      url: galline
     - title: Soil
-      url: /soil
+      url: soil
+    - title: Plants
+      url: plants
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Jekyll Help
-      folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+# topnav_dropdowns:
+# - title: Topnav dropdowns
+#   folders:
+#     - title: Jekyll Help
+#       folderitems:
+#         - title: Jekyll Talk
+#           external_url: https://talk.jekyllrb.com
+#         - title: Jekyll documentation
+#           external_url: http://jekyllrb.com/docs/home/
+#         - title: Jekyll on Stack Overflow
+#           external_url: http://stackoverflow.com/questions/tagged/jekyll
+#         - title: Jekyll on my blog
+#           external_url: http://idratherbewriting.com/category-jekyll/

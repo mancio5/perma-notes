@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="lista-short">
+	<div class="container">
+		<div class="plants">
+
+			<input id="search-highlight" class="mb-4" name="search-highlight" placeholder="Cerca una pianta" type="text" data-list=".highlight_list" autocomplete="on">
+	            <div class="vertical highlight_list">
+	              {% for p in site.data.plants %}
+						{% include plant-short-card.html %}
+					{% endfor %}
+	        	</div>
+	    </div>
+	
+	</div>
+</div>
+ <!-- JS -->
+<!-- JS ends -->
