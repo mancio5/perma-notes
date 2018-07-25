@@ -5,7 +5,7 @@ keywords: chicken, galline, food
 last_updated: July 10, 2018
 summary: ""
 sidebar: galline_sidebar
-permalink: gal_adequate_food
+permalink: gal-adequate-food
 toc: true
 ---
 ## Adequate food

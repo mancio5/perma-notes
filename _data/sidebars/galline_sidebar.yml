@@ -13,7 +13,7 @@ entries:
       url: /galline.html
       output: web
     - title: Costs
-      url: /gal_costs.html
+      url: /galcosts.html
       output: web
     - title: Type of chicken
       url: /gal_types.html
@@ -26,7 +26,7 @@ entries:
       url: /gal_clean_water.html
       output: web
     - title: Food
-      url: /gal_adequate_food.html
+      url: /gal-adequate-food.html
       output: web
     - title: Alternative Feeds
       url: /gal_alternative_feeds.html

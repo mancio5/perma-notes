@@ -1,0 +1,38 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Jadam
+  product: Jadam
+  version: 
+  folders:
+
+  - title: Jadam intro
+    output: web
+    folderitems:
+    - title: Overview
+      url: /jadam-intro.html
+      output: web
+
+  - title: Modern agriculture
+    output: web
+    folderitems:
+    - title: Overview
+      url: /jadam-modern-agriculture.html
+      output: web
+
+  - title: Microorganisms
+    output: web
+    folderitems:
+    - title: Overview
+      url: /jadam-microorganisms.html
+      output: web
+    - title: Leaf mold
+      url: /jadam-leaf-mold.html
+      output: web
+
+  - title: Nature
+    output: web
+    folderitems:
+    - title: Overview
+      url: /jadam-nature-does-it.html
+      output: web

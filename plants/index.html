@@ -7,8 +7,13 @@ layout: default
 
 			<input id="search-highlight" class="mb-4" name="search-highlight" placeholder="Cerca una pianta" type="text" data-list=".highlight_list" autocomplete="on">
 	            <div class="vertical highlight_list">
-	              {% for p in site.data.plants %}
-						{% include plant-short-card.html %}
+	            	
+	            	{% assign plants = site.data.plants | sort: 'nome_principale' %}
+	              	{% for p in plants %}
+	              		{% if p.luoghi contains "lombricaia" %}
+					  		{% include plant-short-card.html %}
+						{% endif %}
+						
 					{% endfor %}
 	        	</div>
 	    </div>

@@ -11,6 +11,8 @@ topnav:
       url: soil
     - title: Plants
       url: plants
+    - title: Jadam
+      url: jadam
 
 #Topnav dropdowns
 # topnav_dropdowns:
