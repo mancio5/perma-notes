@@ -116,6 +116,7 @@ sidebars:
 - mg_sidebar
 - galline_sidebar
 - jadam_sidebar
+- proj_galline_sidebar
 - other
 
 description: "All my permaculture resources in one place."

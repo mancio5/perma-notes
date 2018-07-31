@@ -1,0 +1,47 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Progetto Galline
+  product: Progetto Galline
+  version: 1.0
+  folders:
+
+  - title: Overview
+    output: web
+    folderitems:
+    - title: Visioni
+      url: /proj-galline.html
+      output: web
+
+  - title: Visione 1
+    output: web
+    folderitems:
+    - title: Visione 1
+      url: /proj-galline-v1.html
+      output: web
+    - title: Pianificazione
+      url: /proj-galline-v1-pianificazione.html
+      output: web
+    - title: Realizzazione
+      url: /proj-galline-v1-realizzazione.html
+      output: web
+    - title: Osservazioni
+      url: /proj-galline-v1-osservazioni.html
+      output: web
+
+  - title: Visione 2
+    output: web
+    folderitems:
+    - title: Visione 2
+      url: /proj-galline-v2.html
+      output: web
+    - title: Pianificazione
+      url: /proj-galline-v2-pianificazione.html
+      output: web
+    - title: Realizzazione
+      url: /proj-galline-v2-realizzazione.html
+      output: web
+    - title: Osservazioni
+      url: /proj-galline-v2-osservazioni.html
+      output: web
+    
