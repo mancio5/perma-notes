@@ -1,5 +1,12 @@
 ---
-layout: default
+title: Catalogo Piante Feeds
+tags: [plants]
+keywords:
+last_updated: July 10, 2018
+summary: ""
+sidebar: plants_sidebar
+permalink: plants
+toc: true
 ---
 <div class="lista-short">
 	<div class="container">
@@ -10,9 +17,9 @@ layout: default
 	            	
 	            	{% assign plants = site.data.plants | sort: 'nome_principale' %}
 	              	{% for p in plants %}
-	              		{% if p.luoghi contains "lombricaia" %}
+	              		
 					  		{% include plant-short-card.html %}
-						{% endif %}
+						
 						
 					{% endfor %}
 	        	</div>

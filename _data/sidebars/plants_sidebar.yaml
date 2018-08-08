@@ -1,0 +1,21 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Plants Catalog
+  product: Plants Catalog
+  version: 
+  folders:
+
+  - title: Piante
+    output: web
+    folderitems:
+    - title: Catalogo completo
+      url: /plants.html
+      output: web
+
+  - title: Luoghi
+    output: web
+    folderitems:
+    - title: Lombricaia
+      url: /plants-lombricaia.html
+      output: web

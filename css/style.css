@@ -1,3 +1,6 @@
 #mysidebar li{
 	width:100%
 }
+div#toc ul {
+	max-width: 100%;
+}

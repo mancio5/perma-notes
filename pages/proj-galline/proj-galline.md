@@ -22,19 +22,8 @@ Le galline mangiano insetti, e piante che trovano nell'area sotto il pollaio mob
 
 vedi [visione 2](proj-galline-v2.html)
 
-## 2. Miglioriamo la qualita' del cibo e riduciamo dipendenza dal mangime esterno
-Le galline mangiano insetti, e piante che trovano nell'area sotto il pollaio mobile. Oltre a questi si cibano di becchime fermentato, ricco di nutrienti e piu' facile da digerire e di larve di insetti soldato.
-
-vedi [visione 2](proj-galline-v2.html)
-
-## 2. Guadagnare 200 eur la settimana dalla vendita di 20 cassette ad abbonati.
-
-## 2. Guadagnare 100 eur la settimana dalla vendita di 10 cassette ad abbonati.
-
-## 10. Le galline vivono felici mangiando in un pollaio mobile
-
-
-
+## 5. Guadagnare 100 eur la settimana dalla vendita di 10 cassette ad abbonati.
+## 6. Guadagnare 200 eur la settimana dalla vendita di 20 cassette ad abbonati.
 
 
 Per il formato di scrittura vedi [Definizione obiettivi](howto-proj.html)

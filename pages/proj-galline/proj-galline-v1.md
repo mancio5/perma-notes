@@ -21,7 +21,7 @@ Fertilizzano il terreno, rimuovono le erbacce, rimuovono i semi e raspano il ter
 
 ## Periodo di osservazione
 - Le galline sono state messe nel pollaio venerdì 27/07/18
-- Verranno spostate venerdì 03/07/18
+- spostate domenica 05/08/18
 
 ## Misurazioni
 1. Le galline sono sempre 3 non ci sono morti, ne feriti

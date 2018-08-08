@@ -1,13 +1,3 @@
-# Build settings
-page_gen-dirs: false # uncomment, if you prefer to generate named folders
-
-page_gen:
-    
-  - data: 'plants'
-    template: 'plant'
-    name: 'nome_principale'
-    dir: 'plants'
-
 repository: mancio5/perma-notes
 
 output: web
@@ -117,6 +107,7 @@ sidebars:
 - galline_sidebar
 - jadam_sidebar
 - proj_galline_sidebar
+- plants_sidebar
 - other
 
 description: "All my permaculture resources in one place."
@@ -127,4 +118,12 @@ url: http://permanotes.stortiurbani.it
 baseurl: 
 
 
+# Build settings
+page_gen-dirs: false # uncomment, if you prefer to generate named folders
 
+page_gen:
+    
+  - data: 'plants'
+    template: 'plant'
+    name: 'nome_principale'
+    dir: 'plants'
