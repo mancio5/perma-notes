@@ -29,6 +29,7 @@ Less than 1% of microorganisms can be cultured by technology used by modern scie
 So even though companies might tout their product as being "good" bacteria, it can only represent a fraction of the total diversity available in nature.
 
 ### Disrupting the soil balance and nutrients
+Selecting only few microorganisms means you are only providing a few types of nutrients to your plants. That inevitably means an imbalance of nutrients.
 Selectively use good microbes and exclude the bad ones disrupts the balance of soil nutrition which can lead to increased diseases in crops.
 
 **Use microorganisms selectively change the microorganism composition leading to change in nutrients. Microorganisms mean nutrients.**
@@ -60,7 +61,10 @@ All sort of microorganisms including protozoa, algae, mold, fungi, bacteria and 
 Because different microorganisms feed on different substance, if you need a specific type you just need to throw in the leaf mold the type of feed they prefer.
 Microorganism that like that feed will multiply and take the dominance.
 
-
+## Microorganisms cannot travel without the help of water
+Their body is made up to 95% of water.
+They cannot move around inside dry soil.
+If you want microorganisms to reach your roots, water must reach it too.
 
 
 

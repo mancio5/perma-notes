@@ -18,4 +18,7 @@ In nature 3 rules govern fertilizers:
 
 In traditional agriculture, when the fall came, farmers would scattered cow dung and other organic matter onto the fields which would break down throughout the winter and would have fertilized the soil by spring.
 
-### Fertilization
+## Compost
+Some say compost has to read 75*C in order to kill the harmful microbes and that beneficial bacterias will survive.
+
+**All organic matter has, for billions of year, decomposed at ambient temperature.**

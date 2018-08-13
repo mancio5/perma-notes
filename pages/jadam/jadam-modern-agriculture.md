@@ -63,10 +63,17 @@ The solution would appear to be **rotating** the culture, but there is not such 
 *In nature leaves, branches, roots, fruits etc fall on the ground and are disintegrated by the microbes and are returned to the soil. When they fall back on the soil the minerals previously held are released. **They have moved but not removed** *
 
 ---
-## Removing crop residues
+## Removing crop residues - leaching of minerals
+Whereas "natural leaching of minerals" is the deprivation go nutrients from the soil mainly because the fruits are taken, forced leaching refers to the process where nutrients are deprived due the practice of removing crop residues.
 In human farming the crops residue, supposedly carrying diseases, are removed from the soil. 
 
 [**They are instead the perfect source of nutrients or fertilizer.**](jadam-nature-does-it.html/#fertilizer)
+
+Current agricultural practices leaves the soil deprived of nutrients and call for more market-brought fertilizers and pesticides.
+
+Organic nutrients come from the sun, air and water that are infinite resources. However is not the same for inorganic nutrients. **Minerals are finite resources** and what is taken out is taken out.
+
+
 
 ### Disease
 
