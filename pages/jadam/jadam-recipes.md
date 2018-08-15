@@ -10,7 +10,40 @@ toc: true
 ---
 
 ## Jadam Indigenous Microorganisms solution (JMS)
+Uses leaf mold that have adapted to the local environment as starter.
+Uses potatoes as medium (feed).
+Apply continuously throughout growth but intensively before transplanting for annuals and before flowering/sprouting for perennials.
 
+- 500L of water
+- dissolve 0.5kg of sea salt
+- in a fine net bag put
+	- 1kg of boiled potatoes
+	- 0.5 kg of leaf mold
+	- some small rocks
+	- hang the bag so it stays underwater
+
+For specific crop-customized microorganisms
+- add crop residues in the fine net bag
+
+- Close the lid
+- leave under the sun and in the same environment condition of the crop you want to apply the JMS to
+
+- 1-3 day of completion
+- in summer is faster and there is more foam
+
+- if water drops below 18C use electric heater to keep at 20*C and wrap the container for insulation
+
+- When the foam is most vigorous and the edges of the disk are clear, it is time for use.
+
+**Use the JMS the day that is ready**. If you are just one day late, the edges will crumble and the microbes will die so it is useless as JMS.
+**If it's to late you can use it as JLF** (Jadam Liquid Fertilizer).
+Dilute 10 times with water and use up completely.
+
+When using JMS through a hose filter with a fine net. Run clear water through the hose after JMS to clean it.
+
+If used for foliar application, dilute 20 times and mix with Jadam wetting agent
+
+- microorganisms Apply 
 
 ## Soil foundation Work
 - JMS 500L from 0.1ha to 3.5ha
